@@ -6,6 +6,8 @@ draft: false
 
 Here are some sources I've found useful and which seem reliable.
 
+* [Rt Covid-19](https://rt.live/)
+
 * [Interactive visualization from John Hopkins data](http://91-divoc.com/pages/covid-visualization/)
 
 * [Worldometer: global](https://www.worldometers.info/coronavirus/)
