@@ -6,6 +6,8 @@ draft: false
 
 Here are some sources I've found useful and which seem reliable.
 
+* [91-divoc](https://91-divoc.com/pages/covid-visualization/)
+
 * [Trajectory of cases, by state](https://aatishb.com/covidtrends/?scale=linear&region=US&doublingtime=1&location=Arizona&location=California&location=Florida&location=Georgia&location=Illinois&location=Nevada&location=Texas)
 
 * [Rt Covid-19](https://rt.live/)
