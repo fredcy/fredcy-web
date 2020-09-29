@@ -1,7 +1,7 @@
 ---
 title: Welfare for grifters and marks
 author: fred
-type: post
+#type: post
 date: 2009-02-23T18:45:42+00:00
 url: /2009/02/23/welfare-for-grifters-and-marks/
 categories:

@@ -1,7 +1,7 @@
 ---
 title: Committing to choices
 author: fred
-type: post
+#type: post
 date: 2015-01-11T16:37:23+00:00
 url: /2015/01/11/committing-to-choices/
 categories:

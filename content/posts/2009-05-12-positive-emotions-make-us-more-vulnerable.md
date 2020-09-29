@@ -1,7 +1,7 @@
 ---
 title: Positive emotions make us more vulnerable
 author: fred
-type: post
+#type: post
 date: 2009-05-12T15:26:11+00:00
 url: /2009/05/12/positive-emotions-make-us-more-vulnerable/
 categories:

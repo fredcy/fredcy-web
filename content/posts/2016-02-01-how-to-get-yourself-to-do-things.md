@@ -1,7 +1,7 @@
 ---
 title: How to Get Yourself to Do Things
 author: fred
-type: post
+#type: post
 date: 2016-02-01T17:27:12+00:00
 url: /2016/02/01/how-to-get-yourself-to-do-things/
 categories:

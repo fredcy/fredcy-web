@@ -1,7 +1,7 @@
 ---
 title: The Internet of Things (Watching Us)
 author: fred
-type: post
+#type: post
 date: 2014-11-26T16:14:28+00:00
 url: /2014/11/26/the-internet-of-things-watching-us/
 categories:

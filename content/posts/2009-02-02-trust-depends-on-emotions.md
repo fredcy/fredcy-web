@@ -1,7 +1,7 @@
 ---
 title: Trust depends on emotions
 author: fred
-type: post
+#type: post
 date: 2009-02-02T15:12:37+00:00
 url: /2009/02/02/trust-depends-on-emotions/
 categories:

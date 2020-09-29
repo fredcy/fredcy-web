@@ -1,7 +1,7 @@
 ---
 title: Predicting happiness when making choices
 author: fred
-type: post
+#type: post
 date: 2009-08-01T20:44:59+00:00
 url: /2009/08/01/predicting-happiness-when-making-choices/
 categories:

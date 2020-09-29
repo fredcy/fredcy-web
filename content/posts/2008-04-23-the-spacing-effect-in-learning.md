@@ -1,7 +1,7 @@
 ---
 title: The Spacing Effect in Learning
 author: fred
-type: post
+#type: post
 date: 2008-04-23T18:01:39+00:00
 url: /2008/04/23/the-spacing-effect-in-learning/
 categories:

@@ -1,7 +1,7 @@
 ---
 title: Thoughts on a Station Platform
 author: fred
-type: post
+#type: post
 date: 2008-07-10T19:24:43+00:00
 url: /2008/07/10/thoughts-on-a-station-platform/
 categories:

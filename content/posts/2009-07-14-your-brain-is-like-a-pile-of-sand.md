@@ -1,7 +1,7 @@
 ---
 title: Your brain is like a pile of sand
 author: fred
-type: post
+#type: post
 date: 2009-07-14T14:09:42+00:00
 url: /2009/07/14/your-brain-is-like-a-pile-of-sand/
 categories:

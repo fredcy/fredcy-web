@@ -1,7 +1,7 @@
 ---
 title: Calendar as information central
 author: fred
-type: post
+#type: post
 date: 2009-05-08T18:22:02+00:00
 url: /2009/05/08/calendar-as-information-central/
 categories:

@@ -1,7 +1,7 @@
 ---
 title: Investment strategy by Nicholas Taleb
 author: fred
-type: post
+#type: post
 date: 2008-06-02T18:05:15+00:00
 url: /2008/06/02/investment-strategy-by-nicholas-taleb/
 categories:

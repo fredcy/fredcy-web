@@ -1,7 +1,7 @@
 ---
 title: Work that can’t be done over the wire
 author: fred
-type: post
+#type: post
 date: 2009-05-21T17:29:41+00:00
 url: /2009/05/21/work-that-cant-be-done-over-the-wire/
 categories:

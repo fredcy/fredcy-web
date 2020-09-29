@@ -1,7 +1,7 @@
 ---
 title: Managing WordPress via git
 author: fred
-type: post
+#type: post
 date: 2014-10-03T14:31:15+00:00
 url: /2014/10/03/managing-wordpress-via-git/
 categories:

@@ -1,7 +1,7 @@
 ---
 title: Building Tezos on Ubuntu 14.04
 author: fred
-type: post
+#type: post
 date: 2016-11-23T17:46:37+00:00
 url: /2016/11/23/building-tezos-on-ubuntu-14-04/
 categories:

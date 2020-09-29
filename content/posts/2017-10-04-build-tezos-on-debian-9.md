@@ -1,7 +1,7 @@
 ---
 title: Build Tezos from source for alphanet on Debian 9
 author: fred
-type: post
+#type: post
 date: 2017-10-04T21:24:58+00:00
 draft: true
 private: true

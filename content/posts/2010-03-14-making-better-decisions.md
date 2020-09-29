@@ -1,7 +1,7 @@
 ---
 title: Making better decisions
 author: fred
-type: post
+#type: post
 date: 2010-03-14T15:41:42+00:00
 url: /2010/03/14/making-better-decisions/
 categories:

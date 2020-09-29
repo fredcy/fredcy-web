@@ -1,7 +1,7 @@
 ---
 title: Robert Shiller on the housing boom/bust
 author: fred
-type: post
+#type: post
 date: 2007-09-08T18:58:54+00:00
 url: /2007/09/08/robert-shiller-on-the-housing-boombust/
 categories:

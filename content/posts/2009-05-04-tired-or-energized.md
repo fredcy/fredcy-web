@@ -1,7 +1,7 @@
 ---
 title: Tired, or energized?
 author: fred
-type: post
+#type: post
 date: 2009-05-04T20:39:29+00:00
 url: /2009/05/04/tired-or-energized/
 categories:

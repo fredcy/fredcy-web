@@ -1,7 +1,7 @@
 ---
 title: DFW is dead — long live DFW
 author: fred
-type: post
+#type: post
 date: 2008-09-14T15:48:04+00:00
 url: /2008/09/14/dfw-is-dead-long-live-dfw/
 categories:

@@ -1,7 +1,7 @@
 ---
 title: Can’t be understated
 author: fred
-type: post
+#type: post
 date: 2013-03-18T19:58:04+00:00
 url: /2013/03/18/cant-be-understated/
 categories:

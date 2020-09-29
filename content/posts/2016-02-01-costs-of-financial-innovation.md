@@ -1,7 +1,7 @@
 ---
 title: Costs of Financial Innovation
 author: fred
-type: post
+#type: post
 date: 2016-02-01T17:24:15+00:00
 url: /2016/02/01/costs-of-financial-innovation/
 categories:

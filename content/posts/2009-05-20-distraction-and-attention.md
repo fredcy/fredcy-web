@@ -1,7 +1,7 @@
 ---
 title: Distraction and Attention
 author: fred
-type: post
+#type: post
 date: 2009-05-20T14:54:26+00:00
 url: /2009/05/20/distraction-and-attention/
 categories:

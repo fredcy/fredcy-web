@@ -1,7 +1,7 @@
 ---
 title: Virtue via intelligence
 author: fred
-type: post
+#type: post
 date: 2016-05-18T22:45:00+00:00
 url: /2016/05/18/virtue-via-intelligence/
 categories:

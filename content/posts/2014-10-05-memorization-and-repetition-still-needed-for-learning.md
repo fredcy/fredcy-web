@@ -1,7 +1,7 @@
 ---
 title: Memorization and Repetition Still Needed for Learning
 author: fred
-type: post
+#type: post
 date: 2014-10-06T00:03:05+00:00
 url: /2014/10/05/memorization-and-repetition-still-needed-for-learning/
 categories:

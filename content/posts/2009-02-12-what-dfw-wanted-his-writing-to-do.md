@@ -1,7 +1,7 @@
 ---
 title: What DFW wanted his writing to do
 author: fred
-type: post
+#type: post
 date: 2009-02-12T18:04:21+00:00
 url: /2009/02/12/what-dfw-wanted-his-writing-to-do/
 categories:

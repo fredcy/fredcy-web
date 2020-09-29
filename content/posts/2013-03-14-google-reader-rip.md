@@ -1,7 +1,7 @@
 ---
 title: Google Reader, RIP
 author: fred
-type: post
+#type: post
 date: 2013-03-14T13:30:38+00:00
 url: /2013/03/14/google-reader-rip/
 categories:

@@ -1,7 +1,7 @@
 ---
 title: Perfect health diet
 author: fred
-type: post
+#type: post
 date: 2013-03-05T23:42:45+00:00
 url: /2013/03/05/perfect-health-diet/
 categories:

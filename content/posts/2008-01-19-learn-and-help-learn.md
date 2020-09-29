@@ -1,7 +1,7 @@
 ---
 title: Learn and Help Learn
 author: fred
-type: post
+#type: post
 date: 2008-01-19T23:55:04+00:00
 url: /2008/01/19/learn-and-help-learn/
 categories:

@@ -1,7 +1,7 @@
 ---
 title: Purpose of consciousness
 author: fred
-type: post
+#type: post
 date: 2008-01-31T14:30:19+00:00
 url: /2008/01/31/purpose-of-consciousness/
 categories:

@@ -1,7 +1,7 @@
 ---
 title: Self-control via strategic allocation of attention
 author: fred
-type: post
+#type: post
 date: 2009-05-11T14:25:10+00:00
 url: /2009/05/11/self-control-via-strategic-allocation-of-attention/
 categories:

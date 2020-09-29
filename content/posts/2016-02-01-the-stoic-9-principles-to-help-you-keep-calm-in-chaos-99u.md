@@ -1,7 +1,7 @@
 ---
 title: 'The Stoic: 9 Principles to Help You Keep Calm in Chaos – 99U'
 author: fred
-type: post
+#type: post
 date: 2016-02-01T17:28:13+00:00
 url: /2016/02/01/the-stoic-9-principles-to-help-you-keep-calm-in-chaos-99u/
 categories:

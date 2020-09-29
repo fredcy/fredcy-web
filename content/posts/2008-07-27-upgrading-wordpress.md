@@ -1,7 +1,7 @@
 ---
 title: upgrading WordPress, or how to turn 30 minutes into several hours
 author: fred
-type: post
+#type: post
 date: 2008-07-28T03:04:09+00:00
 url: /2008/07/27/upgrading-wordpress/
 categories:

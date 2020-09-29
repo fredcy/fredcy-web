@@ -1,7 +1,7 @@
 ---
 title: Yet more on DFW
 author: fred
-type: post
+#type: post
 date: 2009-03-20T13:17:23+00:00
 url: /2009/03/20/yet-more-on-dfw/
 categories:

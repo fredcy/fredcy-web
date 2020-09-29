@@ -1,7 +1,7 @@
 ---
 title: Focus on effort, not talent
 author: fred
-type: post
+#type: post
 date: 2007-11-29T19:55:53+00:00
 url: /2007/11/29/focus-on-effort-not-talent/
 categories:

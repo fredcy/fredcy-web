@@ -1,7 +1,7 @@
 ---
 title: “Least Common Denominator” should be Greatest Common Divisor
 author: fred
-type: post
+#type: post
 date: 2008-09-12T18:37:32+00:00
 url: /2008/09/12/least-common-denominator-should-be-greatest-common-divisor/
 categories:

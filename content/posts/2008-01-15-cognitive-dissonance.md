@@ -1,7 +1,7 @@
 ---
 title: Cognitive dissonance
 author: fred
-type: post
+#type: post
 date: 2008-01-15T21:34:40+00:00
 url: /2008/01/15/cognitive-dissonance/
 categories:
