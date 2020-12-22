@@ -1,7 +1,7 @@
 ---
 title: "Building Tezos 8.0"
 date: 2020-12-22T14:23:05-06:00
-draft: true
+draft: false
 ---
 
 Building and running Tezos version 8.0 on an Ubuntu 18.04 system was a bit more complicated than usual.
