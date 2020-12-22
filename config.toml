@@ -11,7 +11,7 @@ theme = "indigo"
   Subtitle = "Pondering about tech, philosophy, and flourishing"
   Avatar = "images/self.jpg"
   Biography = "Developing applications for edtech and blockchain in Go, Python, Elm, and PHP"
-  ShowBio = true
+  ShowBio = false
   PermalinkText = "🔗"
   mainSections = ["posts"]
 
