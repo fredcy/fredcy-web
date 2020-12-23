@@ -1,0 +1,4 @@
+/* use tighter line-spacing in code blocks */
+pre {
+    line-height: 1.5em;
+}
