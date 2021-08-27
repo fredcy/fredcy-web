@@ -36,3 +36,13 @@ If your node's RPC _is_ accessed remotely then (per Pierre Boutillier) you proba
     ... --rpc-addr localhost:8732 --rpc-addr :8732
 	
 A quick and insecure way to allow all RPCs for remote access is by adding the `--allow-all-rpc :8732` option to the above.
+
+### Alternative explanation 
+
+Here is how Pierre Boutillier puts it on the Baking Slack (lightly edited by me):
+
+If you configured `--rpc-addr` to something else than `localhost:...` and want to do something forbidden by the ACL, you have two possibilities:
+
+* if your baker/endorser/accusser/client/... is actually on the same machine, add an extra `--rpc-addr localhost:...` in addition of your old `--rpc-addr` and use `localhost` as the target of your RPCs. This configuration is safe (as long as access on your machine is secured)
+
+* if not; use `--allow-all-rpc [XXX]` with `[XXX]` being the exact same string as what you put as `--rpc-addr` argument. This configuration may not be safe.
