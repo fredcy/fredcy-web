@@ -16,7 +16,7 @@ A contract cannot create tickets with a creator other than itself.
 
 Each ticket also has an associated _amount_, a non-negative number.
 
-Tickets are created only by the *CREATE_TICKET* Michelson instruction.
+Tickets are created only by the `TICKET` Michelson instruction.
 The contract whose code executes that instruction becomes the creator of that ticket.
 
 A smart contract can pass a ticket to another contract as the parameter of a transaction or when creating that contract.
@@ -54,9 +54,9 @@ A wallet for a single ticket type, such as `ticket string`, is feasible. The wal
 
 ## Questions
 
-1. When happens when a JOIN_TICKET instruction call fails? Are the original two tickets lost?
+1. When happens when a `JOIN_TICKET` instruction call fails (i.e., returns `None`)? Are the original two tickets lost?
 
-2. Similarly, what happens when a SPLIT_TICKET instruction call fails?
+2. Similarly, what happens when a `SPLIT_TICKET` instruction call fails?
 
 ## References
 
