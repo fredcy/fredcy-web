@@ -1,5 +1,13 @@
 # fredcy-web
 
+## Install
+
+```
+git submodule update --init
+```
+
+## Usage
+
 To start the dev server, showing draft content:
 
 ```

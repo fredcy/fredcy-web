@@ -21,3 +21,4 @@ Similarly, the neural network weights and biases could be adjusted when the resu
 + E. Bender, T. Gebru, A. McMillan-Major, S. Schmitchell,
 [On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?](https://dl.acm.org/doi/pdf/10.1145/3442188.3445922), 2021
 
++ Elizabeth Weil, [You Are Not a Parrot](https://nymag.com/intelligencer/article/ai-artificial-intelligence-chatbots-emily-m-bender.html), Intelligencer, 2023
