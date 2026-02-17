@@ -10,6 +10,9 @@ Hugo static site for a personal blog, served at `https://blog.fredcy.com/`. Uses
 
 ```bash
 # Setup (after clone)
+# The submodule uses an SSH URL (git@github.com:...). In environments without SSH
+# (e.g. Claude Code on the web), switch to HTTPS before initializing:
+git config submodule.themes/indigo.url https://github.com/fredcy/indigo.git
 git submodule update --init
 
 # Dev server (includes draft posts)
